@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "オンリー ロンリー グローリー",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-01T07:31:50.256897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/01_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only Lonely Glory [オンリー ロンリー グローリー]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Only_Lonely_Glory_[オンリー_ロンリー_グローリー]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー (アルバ��エチE��チE��)",
+      "artist": "bump of chicken",
+      "has_synced": true,
+      "path": "select/05_オンリー_ロンリー_グローリー_(アルバ��エチE��チE��)_bump_of_chicken.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー - Only Lonely Glory",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/08_オンリー_ロンリー_グローリー_-_Only_Lonely_Glory_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー (アルバムエディット)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/09_オンリー_ロンリー_グローリー_(アルバムエディット)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_02_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_03_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "オンリーロンリーグローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_04_オンリーロンリーグローリー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "オンリー ロンリー グローリー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_05_オンリー_ロンリー_グローリー_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
